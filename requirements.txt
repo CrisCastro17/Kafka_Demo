@@ -1,0 +1,4 @@
+kafka
+confluent_kafka
+tweepy
+pymongo
